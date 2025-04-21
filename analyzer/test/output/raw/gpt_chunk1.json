@@ -1,0 +1,22 @@
+{
+  "chapters": [
+    {
+      "start_timestamp": "00:00:00",
+      "chapter_title": "Exploring Regional Heat Differences in India"
+    }
+  ],
+  "clip_worthy_moments": [
+    {
+      "type": "unique-facts",
+      "timestamp": "00:00:07",
+      "quote": "भाई रामेश्वरम में तो ऐसा लग रहा था धूप 2 cm अंदर आके लग रही हो",
+      "why_clipworthy": "A vivid and unique description of the intense heat felt in Rameshwaram."
+    },
+    {
+      "type": "relatable",
+      "timestamp": "00:00:21",
+      "quote": "इंडिया इंडिया में ही आ जाता है",
+      "why_clipworthy": "Summarizes the common experience of diverse climatic conditions within India."
+    }
+  ]
+}

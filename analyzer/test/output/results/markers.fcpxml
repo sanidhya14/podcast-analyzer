@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<fcpxml version="1.8">
+  <resources>
+    <format id="r1" name="FFVideoFormat1080p30" frameDuration="1/30s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)"/>
+    <asset id="r2" name="AdjustmentLayer" start="0s" duration="324000/30s" hasVideo="1" format="r1" src="file://Users/khajuri/documents/podcasts/scripts/analyzer/assets/black-video.mp4"/>
+  </resources>
+  <library>
+    <event name="AutoMarkers">
+      <project name="Generated Markers">
+        <sequence duration="324000/30s" format="r1">
+          <spine>
+            <asset-clip name="AdjustmentLayer" duration="324000/30s" start="0s" offset="0s" format="r1" ref="r2">
+              <marker start="0/30s" duration="1/30s" value="Chapter" note="Exploring Regional Heat Differences in India" color="purple"/>
+              <marker start="210/30s" duration="1/30s" value="unique-facts" completed="0" note="भाई रामेश्वरम में तो ऐसा लग रहा था धूप 2 cm अंदर आके लग रही हो" color="green"/>
+              <marker start="630/30s" duration="1/30s" value="relatable" completed="0" note="इंडिया इंडिया में ही आ जाता है" color="green"/>
+            </asset-clip>
+          </spine>
+        </sequence>
+      </project>
+    </event>
+  </library>
+</fcpxml>
